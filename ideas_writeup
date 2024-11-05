@@ -1,0 +1,7 @@
+indira girls hostel
+MCODS - 107+
+
+
+
+Idea 1: Implementation of high speed SHA-256 algorithm by reducing the critical delay path.  This paper is referenced for the architecture of the algorithm: https://ieeexplore.ieee.org/document/5351591 
+Idea 2: Implementation of Gabor filter on 16x16 fingerprint image for texture segmentation (segmenting the input image into ridge and valleys for better fingerprint matching). The data input is in 32-bit binary (for floating point values of Gabor filter kernel - a 3x3 complex kernel). The memory would be of the same size as that of the input image while the Filter coefficients is to be stored in ROM. We have refernced the following paper : http://ieeexplore.ieee.org/document/5069264/
